@@ -55,12 +55,12 @@ spec:
 ```
 ---
 ### Applied the deployment.yaml file
-![alt text](screenshots/<Screenshot 2026-11-07 at 00.16.17.png>)
+![alt text](<screenshots/Screenshot 2026-11-07 at 00.16.17.png>)
 ---
 
 ### Updated the deployment.yaml to cause failure in deployment-fail.yaml, by causing the init container to fail and exit with code 1.
 
-![alt text](screenshots/<Screenshot 2026-11-07 at 00.18.51.png>)
+![alt text](<screenshots/Screenshot 2026-11-07 at 00.18.51.png>)
 ![alt text](screenshots/image-1.png)
 ![alt text](screenshots/image-2.png)
 ---
